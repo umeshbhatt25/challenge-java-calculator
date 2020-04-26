@@ -30,18 +30,5 @@ public class AppTest extends TestCase
     /**
      * Rigourous Test :-)
      */
-    public void testApp1()
-    {
-    	
-    }
     
-    public void testApp2()
-    {
-    	
-    }
-    
-    public void testApp3()
-    {
-    	
-    }
 }
